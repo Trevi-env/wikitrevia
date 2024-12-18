@@ -115,6 +115,24 @@
             <mxPoint x="720" y="1269.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="q02-ulBFFWecJsiYI4my-32" value="ECS Task3&lt;br&gt;&lt;div&gt;MQTT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q02-ulBFFWecJsiYI4my-33" value="ECS Task3&lt;br&gt;SMA API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q02-ulBFFWecJsiYI4my-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q02-ulBFFWecJsiYI4my-18" target="q02-ulBFFWecJsiYI4my-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="1300" as="sourcePoint" />
+            <mxPoint x="550" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q02-ulBFFWecJsiYI4my-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q02-ulBFFWecJsiYI4my-18" target="q02-ulBFFWecJsiYI4my-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1240" as="sourcePoint" />
+            <mxPoint x="310" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
