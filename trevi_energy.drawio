@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Pagina-1" id="ch-219JEEad0Wv71bElU">
-    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1596" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         <mxCell id="rswGfNqE7HVyRveE84aS-68" value="AWS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="232" y="884" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rswGfNqE7HVyRveE84aS-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Excel analyse&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+        <mxCell id="rswGfNqE7HVyRveE84aS-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Energy analyse &amp;amp; monitoring&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="999" y="1144" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rswGfNqE7HVyRveE84aS-70" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Fluvius&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
@@ -615,9 +615,6 @@
             <mxPoint x="120" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rswGfNqE7HVyRveE84aS-208" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;vervangen door energy monitor &amp;amp; Grafana?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="956" y="1166" width="194.5" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rswGfNqE7HVyRveE84aS-209" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Next Kraftwerke&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;nominaties&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="1044" width="108" height="30" as="geometry" />
         </mxCell>
@@ -660,7 +657,7 @@
             <mxPoint x="499" y="1174" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M_58cQQiM4Ar4-P9dWqo-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;? Afrekening ?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M_58cQQiM4Ar4-P9dWqo-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;? Afrekening ?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="984" width="131.5" height="30" as="geometry" />
         </mxCell>
       </root>
