@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Pagina-1" id="ch-219JEEad0Wv71bElU">
     <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -652,31 +652,34 @@
         <mxCell id="bmtWLTp9S_v2I6B9r55R-16" value="&lt;p style=&quot;margin: 0in; font-size: 7.5pt;&quot;&gt;&lt;span style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;rapportering&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="668" y="976" width="131" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="BSSiuGZMnpmqFMswEzqa-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;S3 bucket with config files&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+        <mxCell id="BSSiuGZMnpmqFMswEzqa-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;S3 bucket with config files&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" parent="1" vertex="1">
           <mxGeometry x="221" y="1540" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BSSiuGZMnpmqFMswEzqa-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.078;exitDx=0;exitDy=0;strokeColor=#66FF66;exitPerimeter=0;entryX=0.043;entryY=1.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BSSiuGZMnpmqFMswEzqa-1" target="rswGfNqE7HVyRveE84aS-123">
+        <mxCell id="BSSiuGZMnpmqFMswEzqa-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.078;exitDx=0;exitDy=0;strokeColor=#66FF66;exitPerimeter=0;entryX=0.043;entryY=1.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BSSiuGZMnpmqFMswEzqa-1" target="rswGfNqE7HVyRveE84aS-123" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="391" y="1451" as="sourcePoint" />
             <mxPoint x="449" y="1451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSSiuGZMnpmqFMswEzqa-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#66FF66;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.15;exitY=1.069;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rswGfNqE7HVyRveE84aS-123" target="BSSiuGZMnpmqFMswEzqa-1">
+        <mxCell id="BSSiuGZMnpmqFMswEzqa-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#66FF66;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.15;exitY=1.069;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rswGfNqE7HVyRveE84aS-123" target="BSSiuGZMnpmqFMswEzqa-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="1552" as="sourcePoint" />
             <mxPoint x="450" y="1466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSSiuGZMnpmqFMswEzqa-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#66FF66;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rswGfNqE7HVyRveE84aS-78" target="rswGfNqE7HVyRveE84aS-152">
+        <mxCell id="BSSiuGZMnpmqFMswEzqa-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#66FF66;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="rswGfNqE7HVyRveE84aS-78" target="rswGfNqE7HVyRveE84aS-152" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="529" y="1436" as="sourcePoint" />
             <mxPoint x="534" y="1209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSSiuGZMnpmqFMswEzqa-5" value="Resultaten Sturing, Returns api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BSSiuGZMnpmqFMswEzqa-4">
+        <mxCell id="BSSiuGZMnpmqFMswEzqa-5" value="Resultaten Sturing, Returns api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BSSiuGZMnpmqFMswEzqa-4" vertex="1" connectable="0">
           <mxGeometry x="0.4109" y="-1" relative="1" as="geometry">
             <mxPoint x="90" y="5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Av4-m98c9tjiud78Zl57-1" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Kan dit niet in 1 output formaar MQTT ?&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1515.5" width="151" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
