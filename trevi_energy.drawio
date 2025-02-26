@@ -211,7 +211,7 @@
           <mxGeometry x="496.5" y="239" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rswGfNqE7HVyRveE84aS-68" value="Trevi AWS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="241" y="850" width="60" height="30" as="geometry" />
+          <mxGeometry x="241" y="850" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rswGfNqE7HVyRveE84aS-69" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Grafana&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" parent="1" vertex="1">
           <mxGeometry x="689" y="949" width="100" height="30" as="geometry" />
