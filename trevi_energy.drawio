@@ -1518,7 +1518,7 @@
             <mxPoint x="506.25" y="2832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOpTdZNfMsy9UCbYXnR_-257" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=3;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="IOpTdZNfMsy9UCbYXnR_-195" target="IOpTdZNfMsy9UCbYXnR_-196">
+        <mxCell id="IOpTdZNfMsy9UCbYXnR_-257" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000, #ff9090);strokeWidth=1;" edge="1" parent="1" source="IOpTdZNfMsy9UCbYXnR_-195" target="IOpTdZNfMsy9UCbYXnR_-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="388.25" y="3113" as="sourcePoint" />
             <mxPoint x="658.25" y="3116" as="targetPoint" />
