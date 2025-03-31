@@ -881,7 +881,7 @@
             <mxPoint x="514.1199999999998" y="2445.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IyGlN74YYJwHI7Tvjftb-141" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Next Kraftwerke&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;forecast (nominations)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#97D077;" parent="1" vertex="1">
+        <mxCell id="IyGlN74YYJwHI7Tvjftb-141" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Next Kraftwerke&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;forecast (nominations)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="884.3699999999998" y="2409.01" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IyGlN74YYJwHI7Tvjftb-142" value="SFTP" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IyGlN74YYJwHI7Tvjftb-139" target="IyGlN74YYJwHI7Tvjftb-141" edge="1">
@@ -902,7 +902,7 @@
             <mxPoint x="514.1199999999998" y="2376.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IyGlN74YYJwHI7Tvjftb-146" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Cogenius&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;invoice data: flex reward&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#97D077;" parent="1" vertex="1">
+        <mxCell id="IyGlN74YYJwHI7Tvjftb-146" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Cogenius&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;invoice data: flex reward&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="883.3699999999998" y="2369.01" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IyGlN74YYJwHI7Tvjftb-147" value="SFTP" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="IyGlN74YYJwHI7Tvjftb-144" target="IyGlN74YYJwHI7Tvjftb-146" edge="1">
