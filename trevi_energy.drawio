@@ -1088,7 +1088,7 @@
         <mxCell id="MsZfO5b8Aa5blAXmOqSi-1" value="energy_prod" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="641.25" y="2442" width="127.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dwMHUK3ZyKkksdDyw9mQ-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;devision: Trevion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#97D077;" vertex="1" parent="1">
+        <mxCell id="dwMHUK3ZyKkksdDyw9mQ-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;division: Trevion&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="1050" y="2445.01" width="110.12" height="30" as="geometry" />
         </mxCell>
       </root>
