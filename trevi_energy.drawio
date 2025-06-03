@@ -296,10 +296,10 @@
         <mxCell id="rswGfNqE7HVyRveE84aS-206" value="&lt;p style=&quot;margin: 0in; font-size: 7.5pt;&quot;&gt;&lt;span style=&quot;background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;Status monitoring/alerting&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="703" y="908" width="131" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="rswGfNqE7HVyRveE84aS-212" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;u style=&quot;&quot;&gt;As build EC2&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="6.5" width="150" height="50" as="geometry" />
+        <mxCell id="rswGfNqE7HVyRveE84aS-212" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;u&gt;Old architecture&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="6.5" width="193.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rswGfNqE7HVyRveE84aS-213" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;u style=&quot;&quot;&gt;As build container&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rswGfNqE7HVyRveE84aS-213" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Old architecture&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6.5" y="839" width="193.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VrljPDt0W4JhfJKuqfeu-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Elia onbalans forecast next 15m&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1175,7 +1175,7 @@
         <mxCell id="rp53ApJ07yLkNV35cjY0-170" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;entso-e&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;day ahead prices&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="31.24000000000001" y="2317.01" width="108" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rp53ApJ07yLkNV35cjY0-171" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;in_entsoeda_???&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="rp53ApJ07yLkNV35cjY0-171" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;in_entsoeda_sftp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="235.74" y="2317.01" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rp53ApJ07yLkNV35cjY0-172" value="SFTP/API" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rp53ApJ07yLkNV35cjY0-170" target="rp53ApJ07yLkNV35cjY0-171">
